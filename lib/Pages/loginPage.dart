@@ -32,7 +32,7 @@ class LoginPage extends StatelessWidget {
                       TextFormField(
                         decoration: const InputDecoration(
                           border: UnderlineInputBorder(),
-                          labelText: 'Enter your username',
+                          labelText: 'Enter your username ',
                         ),
                       ),
                       TextFormField(
